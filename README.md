@@ -13,7 +13,7 @@ The purpose of this PyBer Analysis is to use bar charts, scatter plots, line cha
 #### Summary
 ![Summary_Dataframe](/Resources/Summary_df.png)
 
-![Total_Fare_By_City_Type](/Analysis/Total_Fare_by_City_Type.png)
+![Total_Fare_By_City_Type](/analysis/Total_Fare_by_City_Type.png)
 
 
 ### PyBer Analysis Business Proposal
